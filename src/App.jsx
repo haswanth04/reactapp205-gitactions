@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="container">
       <h1>Welcome to My React Project - HASWANTH</h1>
+      <p>CI/CD and cloud DevOps</p>
       <p>This is a simple homepage deployed on GitHub Pages using Vite.</p>
     </div>
   );
